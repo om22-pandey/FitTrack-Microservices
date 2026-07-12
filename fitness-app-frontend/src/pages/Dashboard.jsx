@@ -606,10 +606,10 @@ const Dashboard = () => {
           © {new Date().getFullYear()} Fitness Dashboard. All rights reserved.
         </Typography>
         <Box display="flex" gap={2}>
-          <Link href="https://github.com" target="_blank" rel="noopener" color="inherit" sx={{ display: 'flex', alignItems: 'center', '&:hover': { color: 'primary.main' } }}>
+          <Link href="https://github.com/om22-pandey" target="_blank" rel="noopener" color="inherit" sx={{ display: 'flex', alignItems: 'center', '&:hover': { color: 'primary.main' } }}>
             <GitHubIcon sx={{ mr: 0.5, fontSize: 20 }} /> GitHub
           </Link>
-          <Link href="https://linkedin.com" target="_blank" rel="noopener" color="inherit" sx={{ display: 'flex', alignItems: 'center', '&:hover': { color: 'primary.main' } }}>
+          <Link href="https://www.linkedin.com/in/om-pandey-2021aa285/" target="_blank" rel="noopener" color="inherit" sx={{ display: 'flex', alignItems: 'center', '&:hover': { color: 'primary.main' } }}>
             <LinkedInIcon sx={{ mr: 0.5, fontSize: 20 }} /> LinkedIn
           </Link>
         </Box>
